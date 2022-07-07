@@ -152,7 +152,7 @@ function getRadius(magnitude) {
     return 1;
   }
   return magnitude * 4;
-}
+  }
 
 
 // 7. Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
